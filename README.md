@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-f68j-marcos-junior-faccins-projects.vercel.app/api/top-langs/?username=faccin-eng&layout=compact&hide_progress=false&langs_count=6&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-f-git-213ae7-marcos-junior-faccins-projects.vercel.app/api/top-langs/?username=faccin-eng&layout=compact&hide_progress=false&langs_count=6&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
