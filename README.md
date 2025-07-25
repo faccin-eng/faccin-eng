@@ -11,8 +11,7 @@ My name is Marcos Junior and I'm glad you're here!
 📫 How to reach me:  
    - Instagram: [@faccin.tech](https://instagram.com/faccin.tech)  
    - LinkedIn: [@faccinmarcos](https://linkedin.com/in/faccinmarcos)  
-
-## My Language Card
+##
 
 <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
   <img align="right" src="https://github-readme-stats-f-git-213ae7-marcos-junior-faccins-projects.vercel.app/api/top-langs/?username=faccin-eng&layout=compact&hide_progress=false&langs_count=6&card_width=300" alt="Top Languages" />
