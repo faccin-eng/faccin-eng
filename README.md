@@ -1,13 +1,13 @@
 # Hi there 👋
 
-My name is Marcos Junior and I'm glad you're here!
+My name is Marcos Junior
 
 ## About Me
 
-🔭 I'm currently working on creating apps, sample codes and livecoding  
-👯 I'm looking to collaborate on your projects especially making free content for users and devs                                             
+🔭 I'm currently working on creating apps for group entertainment, without ads.
+👯 I'm looking to collaborate on your flutter projects                                            
 🤔 I'm looking for help with developing several projects                                    
-💬 Ask me about Software Engineering, Python, Flutter/Dart  
+💬 Ask me about Python/Wagtail or Dart/Flutter  
 📫 How to reach me:  
    - Instagram: [@faccin.tech](https://instagram.com/faccin.tech)  
    - LinkedIn: [@faccinmarcos](https://linkedin.com/in/faccinmarcos)  
@@ -18,6 +18,6 @@ My name is Marcos Junior and I'm glad you're here!
 </a>
 
 - Passionate about open source and education
-- Creating content to help developers grow
-- Always learning and sharing knowledge
+- Creating content to help the common folk
+- Always learning 
 
