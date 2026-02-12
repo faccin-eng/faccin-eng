@@ -1,13 +1,13 @@
 # Hi there 👋
 
-My name is Marcos Junior
+Welcome to my page
 
 ## About Me
 
 🔭 I'm currently working on creating apps for group entertainment, without ads.
 👯 I'm looking to collaborate on your flutter projects                                            
 🤔 I'm looking for help with developing several projects                                    
-💬 Ask me about Python/Wagtail or Dart/Flutter  
+💬 Ask me about Dart/Flutter  
 📫 How to reach me:  
    - Instagram: [@faccin.tech](https://instagram.com/faccin.tech)  
    - LinkedIn: [@faccinmarcos](https://linkedin.com/in/faccinmarcos)  
