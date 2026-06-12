@@ -4,7 +4,7 @@ Welcome to my page
 
 ## About Me
 
-🔭 I'm currently working on creating apps for group entertainment, without ads.
+🔭 I'm currently working on creating apps and cross-platform games, without ads.
                                         
 🤔 I'm looking for help with developing several projects                                    
 💬 Ask me about Dart/Flutter  
