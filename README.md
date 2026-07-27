@@ -4,13 +4,12 @@ Welcome to my page
 
 ## About Me
 
-🔭 I'm currently working on creating apps and cross-platform games, without ads.
+I'm currently working on creating apps and cross-platform games, without ads.
+I have deployed games and applications to appstore and playstore.
                                         
-🤔 I'm looking for help with developing several projects                                    
-💬 Ask me about Dart/Flutter  
-📫 How to reach me:  
-   - Instagram: [@faccin.tech](https://instagram.com/faccin.tech)  
-   - LinkedIn: [@faccinmarcos](https://linkedin.com/in/faccinmarcos)  
+I'm looking for help with developing several projects                                    
+Ask me about Dart/Flutter  
+
 ##
 
 <a href="https://github.com/anuraghazra/github-readme-stats" align="right">
