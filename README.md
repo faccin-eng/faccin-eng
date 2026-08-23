@@ -1,7 +1,3 @@
-# Hi there 👋
-
-Welcome to my page
-
 ## About Me
 
 I'm currently working on creating apps and cross-platform games, without ads.
